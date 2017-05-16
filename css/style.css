@@ -1,0 +1,33 @@
+.bg-aboutme{
+      background-color: #0DC7FF;
+
+}
+.container-fluid{
+      padding: 30px 50px;
+
+}
+
+.bg-portfolio{
+  background-color:   #FF667A;
+
+}
+.bg-contact{
+   background-color:   #63F56E;
+ 
+}
+.bg-footer{
+  
+     background-color: #CC5233;
+
+}
+
+
+.navbar{
+  margin-bottom:0 !important;
+  
+}
+
+/*.navbar-default {
+    border-color: transparent;
+    background-color:     #CC1485 !important;
+}*/
